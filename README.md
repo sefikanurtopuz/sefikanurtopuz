@@ -38,7 +38,7 @@
 
 <p align="left" >
 <a href="https://github.com/sefikanurtopuz">
- <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sefikanurtopuz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a><a href="https://github.com/sefikanurtopuz"><img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sefikanurtopuz&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="160em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sefikanurtopuz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a><a href="https://github.com/sefikanurtopuz"><img height="160em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sefikanurtopuz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
