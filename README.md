@@ -23,7 +23,7 @@
 |<img style="width: 200px" src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611f6b2c4186bd5ba8da08eccdc50a50d2e5746a5cf&rid=giphy.gif&ct=g">|<img style="width: 200px" src="https://media0.giphy.com/media/NFA61GS9qKZ68/giphy.gif?cid=790b7611de1bffe8b6fdcf185bd12120c31a661c7da98c03&rid=giphy.gif&ct=g">| <img style="width: 200px" src="https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47sw4tafqj8xoucdmx1q955jeov28h216wqc3h3rrz&rid=200.webp&ct=g">|  <img style="width: 200px" src="https://media3.giphy.com/media/T5nP7Nwu5FzMc/200.webp?cid=ecf05e47hrxxp5h3kzph3p0fo46uzzttl8thleifho2d5gkb&rid=200.webp&ct=g">|
 </br>
 
-##  🔧  Languages & Tools 
+## 🔧 Languages & Tools 
 
 |<img style="width: 100px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">|<img style="width: 100px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">|<img style="width: 100px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">|<img style="width: 100px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">|<img style="width: 100px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">|<img style="width: 100px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">|<img style="width: 100px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">|<img style="width: 100px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -34,7 +34,7 @@
 
 </br>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="left" >
 <a href="https://github.com/sefikanurtopuz">
