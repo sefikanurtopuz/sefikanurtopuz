@@ -6,12 +6,12 @@
 
 ## 📪 Social Media & Contact with Me
 <p align="left">
-<a target="_blank" href="https://www.hackerrank.com/sefikanurtopuz"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-<a target="_blank" href="https://www.linkedin.com/in/sefikanurtopuz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
-<a target="_blank" href="https://www.kariyer.net/ozgecmis/sefikanurtopuz"><img src="https://img.shields.io/badge/KARIYER.NET-blueviolet?style=for-the-badge&logo=&logoColor=white"></a>
-<a target="_blank" href="https://www.instagram.com/sefikanur/"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a target="_blank" href="https://twitter.com/sefikanurtopuz"><img  src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a target="_blank" href="mailto:sefikanurtopuz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.hackerrank.com/sefikanurtopuz" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/sefikanurtopuz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.kariyer.net/ozgecmis/sefikanurtopuz" target="_blank"><img src="https://img.shields.io/badge/KARIYER.NET-blueviolet?style=for-the-badge&logo=&logoColor=white"></a>
+<a href="https://www.instagram.com/sefikanur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/sefikanurtopuz" target="_blank" ><img  src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:sefikanurtopuz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 </br>
 
