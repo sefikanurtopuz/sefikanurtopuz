@@ -1,14 +1,14 @@
 
 # Hi there, I'm Şefika 👋🏼 
 
- 👩🏻‍💻 I’m currently working on Backend Development</br></br>🌱 I’m currently learning ASP.NET and MVC</br></br> 🐾 I'm currently in the Bootcamp Acceleration Program ▪️ [Patika.dev](https://app.patika.dev/sefikanurtopuz) </br>
-</br>
+ 👩🏻‍💻 I’m currently working on Software Development in Bulut Klinik</br></br>
+ 🌱 I’m currently learning .NET Core </br></br> 
+ 🐾 I'm currently in the Bootcamp Acceleration Program ▪️ [Patika.dev](https://app.patika.dev/sefikanurtopuz) </br></br>
 
 ## 📪 Social Media & Contact with Me
 <p align="left">
 <a  href="https://www.linkedin.com/in/sefikanurtopuz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://www.kariyer.net/ozgecmis/sefikanurtopuz" target="_blank"><img src="https://img.shields.io/badge/KARIYER.NET-blueviolet?style=for-the-badge&logo=&logoColor=white"></a>
-<a href="https://github.com/sefikanurtopuz/sefikanurtopuz/blob/main/Şefika_Nur_Topuz.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-FFA500?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://www.instagram.com/sefikanur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/sefikanurtopuz" target="_blank" ><img  src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.hackerrank.com/sefikanurtopuz" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
@@ -33,13 +33,5 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 </br>
-
-## ⚙️ GitHub Analytics
-
-<p align="left" >
-<a href="https://github.com/sefikanurtopuz">
- <img height="165em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sefikanurtopuz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a><a href="https://github.com/sefikanurtopuz"><img height="165em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sefikanurtopuz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sefikanurtopuz&label=Profile%20views&color=0e75b6&style=flat" alt="sefikanurtopuz" /></p>
